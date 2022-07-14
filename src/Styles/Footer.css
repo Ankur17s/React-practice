@@ -1,0 +1,59 @@
+.footer-container{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 3.2rem;
+    width: 100%;
+    background-color: lightgray;
+    display: flex;
+}
+
+.home-cont {
+    height: 1.3rem;
+    width: 1.3rem;
+    margin-top: 0.7rem;
+    margin-left: 10rem;
+    line-height: .6rem;
+  }
+  .home_img {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+  }
+  .home-cont span {
+    font-size: 0.8rem;
+    font-weight: 450;
+  }
+  
+  .notification-cont {
+    height: 2.5rem;
+    width: 2.5rem;
+    margin-top: 0.4rem;
+    margin-left: 5rem;
+    line-height: 1rem;
+  }
+  .noti_img {
+    height: 100%;
+    width: 100%;
+  }
+  .notification-cont span {
+    font-size: 0.9rem;
+    font-weight: 200;
+  }
+  
+  .setting-cont {
+    height: 2.5rem;
+    width: 2.5rem;
+    margin-top: 0.4rem;
+    margin-left: 5rem;
+    line-height: 1rem;
+  }
+  .setting_img {
+    height: 100%;
+    width: 100%;
+  }
+  .setting-cont span {
+    font-size: 0.9rem;
+    font-weight: 200;
+  }
+  

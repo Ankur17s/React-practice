@@ -1,0 +1,94 @@
+.header-container {
+  height: 5rem;
+  border: 1px solid lightgray;
+  display: flex;
+}
+
+.image-container {
+  height: 80%;
+  width: 5%;
+  margin-left: 3rem;
+  margin-top: 0.4rem;
+}
+.logo_img {
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+}
+
+.input-cont {
+  height: 1.5rem;
+  margin-left: 4rem;
+  margin-top: 1rem;
+  position: relative;
+  display: flex;
+}
+.input-cont input {
+  height: 2.3rem;
+  width: 40rem;
+  text-indent: 1rem;
+  outline: none;
+  border-radius: 0.6rem;
+  border: 1px solid gray;
+  padding: 0.2rem;
+}
+
+.line-cont {
+  position: absolute;
+  height: 1.9rem;
+  width: 1.9rem;
+  margin-left: 38rem;
+  margin-top: 0.3rem;
+}
+.line-cont .line {
+  height: 100%;
+  width: 100%;
+}
+
+.msg-cont {
+  height: 2.5rem;
+  width: 2.5rem;
+  margin-top: 0.4rem;
+  margin-left: 8rem;
+  line-height: 1rem;
+}
+.msg_img {
+  height: 100%;
+  width: 100%;
+}
+.msg-cont span {
+  font-size: 0.9rem;
+  font-weight: 200;
+}
+
+.notification-cont {
+  height: 2.5rem;
+  width: 2.5rem;
+  margin-top: 0.4rem;
+  margin-left: 5rem;
+  line-height: 1rem;
+}
+.noti_img {
+  height: 100%;
+  width: 100%;
+}
+.notification-cont span {
+  font-size: 0.9rem;
+  font-weight: 200;
+}
+
+.setting-cont {
+  height: 2.5rem;
+  width: 2.5rem;
+  margin-top: 0.4rem;
+  margin-left: 5rem;
+  line-height: 1rem;
+}
+.setting_img {
+  height: 100%;
+  width: 100%;
+}
+.setting-cont span {
+  font-size: 0.9rem;
+  font-weight: 200;
+}
