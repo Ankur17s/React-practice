@@ -1,18 +1,18 @@
 import React from 'react'
-import Card from './components/Card'
-import Footer from './components/Footer'
-import Header from './components/Header'
-import SubHeader from './components/SubHeader'
+import Navbar from './components/Navbar'
+import FormContent from './components/FormContent'
+import Cards from './components/Cards'
+import Arrow from './components/Arrow'
 
 function App() {
   return (
     <>
-      <Header />
-      <SubHeader />
-      <Card />
-      <Footer />
+      <Navbar />
+      <FormContent />
+      <Cards />
+      <Arrow />
     </>
   )
 }
 
-export default App
+export default App;
